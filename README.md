@@ -13,4 +13,4 @@ Nous avions à disposition un cahier des charges avec des indications et des con
 
 Nous disposons également d'une base de données.
 
-NB: Ce projet est toujours en cours d'amélioration. Certaines fonctionnalités ne sont pas encore fonctionnelles
+NB: Ce projet est toujours en cours d'amélioration.
